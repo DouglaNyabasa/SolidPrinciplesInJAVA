@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f71e3400-d55a-47c9-b66f-7ae4b609d63d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SolidPrinciples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/README.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dependencyInversion/badDesign/StudentRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dependencyInversion/goodDesign/StudentRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceSegregation/badDesign/StudentRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaceSegregation/goodDesign/StudentRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/liskovSubstitution/badDesign/CreditCardLoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/liskovSubstitution/badDesign/HomeLoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/liskovSubstitution/badDesign/LoanClosureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/liskovSubstitution/badDesign/LoanPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/liskovSubstitution/goodDesign/StudentRegistration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/openClosed/badDesign/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/openClosed/goodDesign/AddOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/openClosed/goodDesign/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/openClosed/goodDesign/DivisionOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/openClosed/goodDesign/MultiplicationOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/openClosed/goodDesign/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/openClosed/goodDesign/SubtractOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleResponsibility/badDesign/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleResponsibility/goodDesign/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singleResponsibility/goodDesign/MovieRepository.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2R6iUXlbYjYohhkKDh8Kc7x5Pqo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/hitra2/IdeaProjects/SolidPrinciples/src/dependencyInversion",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "/home/hitra2/IdeaProjects/SolidPrinciples/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/dependencyInversion" />
+      <recent name="$PROJECT_DIR$/src/interfaceSegregation" />
+      <recent name="$PROJECT_DIR$/src/liskovSubstitution" />
+      <recent name="$PROJECT_DIR$/src/openClosed" />
+      <recent name="$PROJECT_DIR$/src/singleResponsibility" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="openClosed.goodDesign" />
+      <recent name="openClosed.badDesign" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f71e3400-d55a-47c9-b66f-7ae4b609d63d" name="Changes" comment="" />
+      <created>1686576949475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686576949475</updated>
+      <workItem from="1686576950590" duration="1127000" />
+      <workItem from="1686834349263" duration="1826000" />
+      <workItem from="1687197602906" duration="7300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
